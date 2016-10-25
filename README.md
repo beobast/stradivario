@@ -22,4 +22,4 @@ Total : ~ 35€
 
 ## Breadboard View
 
-![breadboard](Fritzing/stradivario.png)
+![breadboard](https://raw.githubusercontent.com/beobast/stradivario/master/Fritzing/stradivario.png)
