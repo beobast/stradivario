@@ -18,3 +18,8 @@ Click on item name to get more info and on item price to know where I bought it.
 
 
 Total : ~ 35€
+
+
+## Breadboard View
+
+![breadboard](Fritzing/stradivario.png)
